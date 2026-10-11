@@ -1,0 +1,1 @@
+Transactions exceeding $50,000 require dual signature executive authorization.

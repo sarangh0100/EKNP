@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Large datasets or DB local state
+*.log
+*.tmp
